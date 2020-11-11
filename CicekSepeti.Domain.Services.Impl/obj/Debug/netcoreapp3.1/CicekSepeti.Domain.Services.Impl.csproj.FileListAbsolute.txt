@@ -1,0 +1,16 @@
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.deps.json
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.csprojAssemblyReference.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.AssemblyInfoInputs.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.AssemblyInfo.cs
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.csproj.CoreCompileInputs.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.csproj.CopyComplete
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services.Impl\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.Impl.pdb

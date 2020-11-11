@@ -1,0 +1,12 @@
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.deps.json
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.json
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.dev.json
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfo.cs
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.genruntimeconfig.cache
