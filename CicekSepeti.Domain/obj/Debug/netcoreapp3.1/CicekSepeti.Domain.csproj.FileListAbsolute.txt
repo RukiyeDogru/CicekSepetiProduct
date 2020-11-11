@@ -10,3 +10,15 @@ C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\net
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csproj.CopyComplete
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.deps.json
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csprojAssemblyReference.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.AssemblyInfoInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.AssemblyInfo.cs
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.csproj.CopyComplete
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb

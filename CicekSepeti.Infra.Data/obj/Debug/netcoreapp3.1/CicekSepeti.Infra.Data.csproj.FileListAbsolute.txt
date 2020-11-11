@@ -10,3 +10,15 @@ C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.genruntimeconfig.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.deps.json
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.json
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.dev.json
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csprojAssemblyReference.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfo.cs
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.genruntimeconfig.cache

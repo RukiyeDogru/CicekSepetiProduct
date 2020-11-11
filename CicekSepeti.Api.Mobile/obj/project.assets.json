@@ -8437,19 +8437,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Apphic\\.nuget\\packages\\": {}
+    "C:\\Users\\ruktr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\CicekSepeti.Api.Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\CicekSepeti.Api.Mobile.csproj",
       "projectName": "CicekSepeti.Api.Mobile",
-      "projectPath": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\CicekSepeti.Api.Mobile.csproj",
-      "packagesPath": "C:\\Users\\Apphic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\obj\\",
+      "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\CicekSepeti.Api.Mobile.csproj",
+      "packagesPath": "C:\\Users\\ruktr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Api.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Apphic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ruktr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8462,14 +8462,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Domain.Services\\CicekSepeti.Domain.Services.csproj": {
-              "projectPath": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Domain.Services\\CicekSepeti.Domain.Services.csproj"
+            "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Domain.Services\\CicekSepeti.Domain.Services.csproj": {
+              "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Domain.Services\\CicekSepeti.Domain.Services.csproj"
             },
-            "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Infra.CrossCutting.IoC\\CicekSepeti.Infra.CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Infra.CrossCutting.IoC\\CicekSepeti.Infra.CrossCutting.IoC.csproj"
+            "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.CrossCutting.IoC\\CicekSepeti.Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.CrossCutting.IoC\\CicekSepeti.Infra.CrossCutting.IoC.csproj"
             },
-            "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\Apphic\\source\\repos\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj"
+            "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj"
             }
           }
         }

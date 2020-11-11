@@ -30,25 +30,21 @@ namespace CicekSepeti.Api.Mobile.Controllers
         public IActionResult Add(CardViewModel model)
         {
 
-            var 
+            var ProductResponse = _ProductService.GetProductById(model.Id);
 
-            var response = new ServiceResponse<Product>();
-            if (response.Validation(new ProductValidation().Validate(product)))
+            if (ProductResponse.IsSucceeded && ProductResponse.Result != null)
             {
-                response.Result = _ProductService.Add(product);
+                return Ok(ProductResponse.Result);
             }
 
-            return response;
+            else
+            {
 
+                return BadRequest();
+            }
+           
 
-
-
-
-
-
-
-
-
+           
         }
     }
 }

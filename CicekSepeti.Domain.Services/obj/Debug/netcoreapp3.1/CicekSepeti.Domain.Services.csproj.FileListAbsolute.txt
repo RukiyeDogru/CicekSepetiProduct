@@ -12,3 +12,17 @@ C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.csproj.CopyComplete
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.dll
 C:\Users\Apphic\source\repos\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.deps.json
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Domain.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.csprojAssemblyReference.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.AssemblyInfo.cs
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.csproj.CopyComplete
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.dll
+C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Domain.Services\obj\Debug\netcoreapp3.1\CicekSepeti.Domain.Services.pdb
