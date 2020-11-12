@@ -22,3 +22,15 @@ C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\De
 C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
 C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
 C:\Users\ruktr\Documents\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.genruntimeconfig.cache
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.deps.json
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.json
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.runtimeconfig.dev.json
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\bin\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csprojAssemblyReference.cache
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfoInputs.cache
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.AssemblyInfo.cs
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.dll
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.pdb
+D:\GitHub\CicekSepetiProduct\CicekSepeti.Infra.Data\obj\Debug\netcoreapp3.1\CicekSepeti.Infra.Data.genruntimeconfig.cache

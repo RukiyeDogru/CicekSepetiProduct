@@ -7,7 +7,7 @@ namespace CicekSepeti.Api.Mobile.Model
 {
     public class CardViewModel
     {
-        public int Id { get; set; }
+        public int ProductId { get; set; }
         public int Quantity { get; set; }
 
     }

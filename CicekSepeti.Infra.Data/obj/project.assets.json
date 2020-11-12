@@ -6839,19 +6839,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ruktr\\.nuget\\packages\\": {}
+    "C:\\Users\\Apphic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj",
+      "projectUniqueName": "D:\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj",
       "projectName": "CicekSepeti.Infra.Data",
-      "projectPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj",
-      "packagesPath": "C:\\Users\\ruktr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruktr\\Documents\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\obj\\",
+      "projectPath": "D:\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\CicekSepeti.Infra.Data.csproj",
+      "packagesPath": "C:\\Users\\Apphic\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\CicekSepetiProduct\\CicekSepeti.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ruktr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Apphic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

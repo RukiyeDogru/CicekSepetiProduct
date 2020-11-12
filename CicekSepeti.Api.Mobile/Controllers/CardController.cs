@@ -30,21 +30,42 @@ namespace CicekSepeti.Api.Mobile.Controllers
         public IActionResult Add(CardViewModel model)
         {
 
-            var ProductResponse = _ProductService.GetProductById(model.Id);
+            var ProductResponse = _ProductService.GetProductById(model.ProductId);
 
             if (ProductResponse.IsSucceeded && ProductResponse.Result != null)
             {
-                return Ok(ProductResponse.Result);
+
+                if(ProductResponse.Result.Piece>=model.Quantity)
+                {
+                    ProductResponse.Result.Piece = ProductResponse.Result.Piece - model.Quantity;
+
+                    _ProductService.Update(ProductResponse.Result);
+                    return Ok(new
+                    {
+                        success = true,
+                        QuantityCount = ProductResponse.Result.Piece
+
+
+                    }) ;
+
+
+                }
+                else
+                {
+                    return Ok(new
+                    {
+                        success = false,
+                        QuantityCount = ProductResponse.Result.Piece
+
+
+                    });
+
+                }
+
             }
+            return ProductResponse.HttpGetResponse();
 
-            else
-            {
 
-                return BadRequest();
-            }
-           
-
-           
         }
     }
 }
